@@ -24,6 +24,8 @@ BUG_REPORT_URL="https://bugs.debian.org/"
 
 ## Getting the driver
 
+[Vertica Driver Download](https://www.vertica.com/download/vertica/client-drivers/)
+
 ```bash
 sudo wget https://www.vertica.com/client_drivers/12.0.x/12.0.4-0/vertica-client-12.0.4-0.x86_64.tar.gz
 ```
